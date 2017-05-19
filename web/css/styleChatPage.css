@@ -1,0 +1,29 @@
+h1 {
+    text-align: left;
+    color: #3091e5;
+    font-size: 30pt;
+    font-family: "Arial Black", Gadget, sans-serif;
+
+    margin: 10px;
+
+}
+
+
+#chatWindow {
+    width: 500pt;
+    height: 200pt;
+    margin: 10px;
+
+    border: 3px solid lightgray;
+    border-radius: 5px;
+
+
+    font-size: 14pt;
+    font-weight: bold;
+
+    resize: none;
+
+
+}
+
+
